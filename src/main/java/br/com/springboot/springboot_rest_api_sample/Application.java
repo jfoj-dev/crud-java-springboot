@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  *
  * Spring Boot application starter class
  * 
- * Teste
  */
 @SpringBootApplication
 public class Application {
